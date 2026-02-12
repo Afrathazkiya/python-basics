@@ -5,8 +5,10 @@ The goal of this repo is to understand core programming concepts through simple 
 ## Files in this Repository
 **loops.py**  
   Contains examples of `for` and `while` loops in Python.
+  
 **functions.py**
 Contains examples of defining and using functions in Python, including parameters, return values, and reusable code blocks.
+
 **conditions.py**
 Contains examples of conditional statements in Python such as if, elif, and else used for decision making.
   
